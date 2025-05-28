@@ -1,5 +1,9 @@
 # ICDMap
 
+[![PyPI version](https://img.shields.io/pypi/v/icdmap)](https://pypi.org/project/icdmap/)
+[![Python versions](https://img.shields.io/pypi/pyversions/icdmap)](https://pypi.org/project/icdmap/)
+[![License](https://img.shields.io/pypi/l/icdmap)](https://github.com/Brritany/ICDMAP/blob/main/LICENSE)
+
 A command-line and Python library for converting ICD codes using an offline SQLite database.
 
 ## Features
@@ -60,7 +64,7 @@ death_mapper.convert(["41071", "431"], source="icd9")
 import pandas as pd
 from icdmap import ICDConverter, DeathCauseMapper
 
-# 建立範例資料（模擬 ICD-9 code）
+# Create sample data (simulate ICD-9 code)
 df = pd.DataFrame({
     "ICD9_CODE": ["250.00", "41401", "0389", "431", "41071"]
 })
