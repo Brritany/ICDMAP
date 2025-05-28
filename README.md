@@ -3,6 +3,12 @@
 [![PyPI version](https://img.shields.io/pypi/v/icdmap)](https://pypi.org/project/icdmap/)
 [![Python versions](https://img.shields.io/pypi/pyversions/icdmap)](https://pypi.org/project/icdmap/)
 [![License](https://img.shields.io/pypi/l/icdmap)](https://github.com/Brritany/ICDMAP/blob/main/LICENSE)
+[![Downloads](https://static.pepy.tech/badge/icdmap)](https://pepy.tech/project/icdmap)
+[![Downloads/month](https://static.pepy.tech/badge/icdmap/month)](https://pepy.tech/project/icdmap)
+[![Open issues](https://img.shields.io/github/issues/Brritany/ICDMAP)](https://github.com/Brritany/ICDMAP/issues)
+[![Stars](https://img.shields.io/github/stars/Brritany/ICDMAP)](https://github.com/Brritany/ICDMAP/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Brritany/ICDMAP)](https://github.com/Brritany/ICDMAP)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Brritany/ICDMAP)
 
 A command-line and Python library for converting ICD codes using an offline SQLite database.
 
